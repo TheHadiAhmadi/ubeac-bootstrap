@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="grid text-center">
+  <div class="g-col-4">.g-col-4</div>
+  <div class="g-col-4">.g-col-4</div>
+  <div class="g-col-4">.g-col-4</div>
+</div>
